@@ -6,13 +6,31 @@
     <title>Diego Gómez</title>
   </head>
   <body>
-    <header><h1>Diego Andrés Gómez Polo</h1></header>
-    <nav></nav>
+    <header>
+      <span>
+        <img src="./mi-cara.jpeg" width="150" height="auto" />
+      </span>
+      <h1>Diego Andrés Gómez Polo</h1>
+    </header>
+    <nav>
+      <span>
+        <a href="#bienvenida">Bienvenida </a>
+      </span>
+      <span>
+        <a href="#biografía"> Datos Biográficos </a>
+      </span>
+      <span>
+        <a href="#academia"> Datos Académicos </a>
+      </span>
+      <span>
+        <a href="#interés"> Sitios de interés </a>
+      </span>
+    </nav>
     <main>
       <section id="bienvenida">
         <h4>¡Bienvenidos!</h4>
         <p>
-          Esta es mi página personal, sean todos bienvenidos.
+          Esta es mi página personal, stalkeen con confianza.
         </p>
       </section>
       <section id="biografía">
@@ -49,22 +67,102 @@
           <li>Matemáticas: 5to semestre</li>
         </ul>
       </section>
-      <section id="interés"> 
-
+      <section id="interés">
         <section id="videos">
+          <div><h3>Algunos videos que me gustaron</h3></div>
+          <iframe
+            width="420"
+            height="315"
+            allowfullscreen
+            src="https://www.youtube.com/embed/ryg077wBvsM"
+          >
+          </iframe>
+          <iframe
+            width="420"
+            height="315"
+            allowfullscreen
+            src="https://www.youtube.com/embed/hFZFjoX2cGg"
+          >
+          </iframe>
+          <iframe
+            width="420"
+            height="315"
+            allowfullscreen
+            src="https://www.youtube.com/embed/qhbuKbxJsk8"
+          >
+          </iframe>
+          <iframe
+            width="420"
+            height="315"
+            allowfullscreen
+            src="https://www.youtube.com/embed/xRel1JKOEbI"
+          >
+          </iframe>
+          <section id="contacto">
+            <p>Deja datos de contacto</p>
+            <form>
+              <input type="email" required placeholder="Ingresa tu email" />
+              <input
+                type="text"
+                required
+                placeholder="Ingresa nombre completo"
+              />
+              <input type="number" required placeholder="Número de celular" />
+              <input type="submit" placeholder="Submit" />
+            </form>
+          </section>
+          <section id="enlaces">
+            <h3>Enlaces de interés</h3>
             <ul>
-                <li>
-                    <iframe width="420" height="315"
-                    src="https://youtu.be/ryg077wBvsM"
-                    >
-                    </iframe>
-                </li>
+              <li>
+                <a href="https://www.uniandes.edu.co" target="/"
+                  >Universidad de los Andes</a
+                >
+              </li>
+              <li>
+                <a href="https://developer.mozilla.org/es/" target="/"
+                  >Web Docs</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.w3schools.com/css/css_combinators.asp"
+                  target="_blank"
+                  >Selectores CSS</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.w3.org/TR/CSS21/propidx.html"
+                  target="_blank"
+                  >Propiedades Heredables CSS</a
+                >
+              </li>
             </ul>
-
+          </section>
+          <section id="imágenes">
+              <h3>Imágenes</h3>
+              <img src="./made-in-abyss.jpg" width="350" height="auto" />
+              <img src="./joker.jpeg" width="350" height="auto" />
+              <img src="./eye.jpeg" width="350" height="auto" />
+          </section>
         </section>
-
       </section>
     </main>
-    <footer></footer>
+    <footer id="footer">
+      <hr />
+      <br /><br />
+      <span>da.gomezp@uniandes.edu.co </span>
+      <span
+        ><a href="https://www.instagram.com/diegogomezpolo/" target="/"
+          >Instagram</a
+        ></span
+      >
+      <span
+        ><a href="https://www.facebook.com/diego.gomezpolo" target="/"
+          >Facebook</a
+        ></span
+      >
+    </footer>
   </body>
 </html>
