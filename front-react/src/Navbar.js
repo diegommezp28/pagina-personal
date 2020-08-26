@@ -29,7 +29,7 @@ function NavBar(params) {
   ];
 
   return (
-    <Row className="justify-content-md-center bg-light">
+    <Row className="justify-content-md-center main-navbar-row">
       <Col md="10">
 
         <Navbar expand="md" sticky="top" id="navbar">

@@ -2,6 +2,8 @@ import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import Navbar from "./Navbar";
+import Banner from "./components/Banner"
+import About from "./components/About"
 
 import logo from './logo.svg';
 import './App.css';
@@ -12,6 +14,8 @@ function App() {
   return (
     <Router>
       <Navbar></Navbar>
+      <Banner></Banner>
+      <About></About>
     </Router>
   );
 }

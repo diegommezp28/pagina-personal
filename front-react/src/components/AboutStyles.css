@@ -1,0 +1,14 @@
+.time-line-link, .time-line-link:hover, .time-line-link:active{
+    color: white;
+    font-weight: 650;
+}
+
+.timeline-link, .timeline-link:hover, .timeline-link:active{
+    color: #413e4b;
+    font-weight: 650;
+}
+
+.timeline-style{
+    font-family: 'Nunito';
+    color: #63616b;
+}
