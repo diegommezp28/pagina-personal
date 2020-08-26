@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 
 import logo from './logo.svg';
 import './App.css';
-import {Button, Navbar} from "react-bootstrap";
+import {Button} from "react-bootstrap";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
