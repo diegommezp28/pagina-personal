@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "./Navbar.css";
-import logo from "../assets/logo-letras.png";
 import { Link } from "react-router-dom";
 
 function NavBar(params) {
@@ -35,13 +34,6 @@ function NavBar(params) {
       <Navbar bg="light" expand="md" sticky="top" id="navbar">
         <Navbar.Brand>
           <Link to="/" className="nav-link">
-            <img
-              src={logo}
-              width="100%"
-              height="auto"
-              className="d-inline-block align-top"
-              alt="React Bootstrap logo"
-            />
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
