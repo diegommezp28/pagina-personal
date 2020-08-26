@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pagina-personal/front-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/pagina-personal/front-react/static/js/main.9f0224c9.chunk.js",
-    "main.js.map": "/pagina-personal/front-react/static/js/main.9f0224c9.chunk.js.map",
-    "runtime-main.js": "/pagina-personal/front-react/static/js/runtime-main.fa680399.js",
-    "runtime-main.js.map": "/pagina-personal/front-react/static/js/runtime-main.fa680399.js.map",
-    "static/css/2.11829350.chunk.css": "/pagina-personal/front-react/static/css/2.11829350.chunk.css",
-    "static/js/2.17d33dbe.chunk.js": "/pagina-personal/front-react/static/js/2.17d33dbe.chunk.js",
-    "static/js/2.17d33dbe.chunk.js.map": "/pagina-personal/front-react/static/js/2.17d33dbe.chunk.js.map",
-    "index.html": "/pagina-personal/front-react/index.html",
-    "precache-manifest.11fc25e5b5a299843edfc184d823c94c.js": "/pagina-personal/front-react/precache-manifest.11fc25e5b5a299843edfc184d823c94c.js",
-    "service-worker.js": "/pagina-personal/front-react/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/pagina-personal/front-react/static/css/2.11829350.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/pagina-personal/front-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.17d33dbe.chunk.js.LICENSE.txt": "/pagina-personal/front-react/static/js/2.17d33dbe.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/pagina-personal/front-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pagina-personal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pagina-personal/static/js/main.3e1e55d6.chunk.js",
+    "main.js.map": "/pagina-personal/static/js/main.3e1e55d6.chunk.js.map",
+    "runtime-main.js": "/pagina-personal/static/js/runtime-main.92533669.js",
+    "runtime-main.js.map": "/pagina-personal/static/js/runtime-main.92533669.js.map",
+    "static/css/2.11829350.chunk.css": "/pagina-personal/static/css/2.11829350.chunk.css",
+    "static/js/2.17d33dbe.chunk.js": "/pagina-personal/static/js/2.17d33dbe.chunk.js",
+    "static/js/2.17d33dbe.chunk.js.map": "/pagina-personal/static/js/2.17d33dbe.chunk.js.map",
+    "index.html": "/pagina-personal/index.html",
+    "precache-manifest.f44dd461a60cb6f505ab8fb5d7486323.js": "/pagina-personal/precache-manifest.f44dd461a60cb6f505ab8fb5d7486323.js",
+    "service-worker.js": "/pagina-personal/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/pagina-personal/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/pagina-personal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.17d33dbe.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.17d33dbe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pagina-personal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa680399.js",
+    "static/js/runtime-main.92533669.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.17d33dbe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9f0224c9.chunk.js"
+    "static/js/main.3e1e55d6.chunk.js"
   ]
 }
