@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pagina-personal/static/css/main.759f5ea0.chunk.css",
-    "main.js": "/pagina-personal/static/js/main.da4c7015.chunk.js",
-    "main.js.map": "/pagina-personal/static/js/main.da4c7015.chunk.js.map",
+    "main.css": "/pagina-personal/static/css/main.4d24b218.chunk.css",
+    "main.js": "/pagina-personal/static/js/main.2e27d847.chunk.js",
+    "main.js.map": "/pagina-personal/static/js/main.2e27d847.chunk.js.map",
     "runtime-main.js": "/pagina-personal/static/js/runtime-main.92533669.js",
     "runtime-main.js.map": "/pagina-personal/static/js/runtime-main.92533669.js.map",
-    "static/css/2.11829350.chunk.css": "/pagina-personal/static/css/2.11829350.chunk.css",
-    "static/js/2.c6b1f9d6.chunk.js": "/pagina-personal/static/js/2.c6b1f9d6.chunk.js",
-    "static/js/2.c6b1f9d6.chunk.js.map": "/pagina-personal/static/js/2.c6b1f9d6.chunk.js.map",
+    "static/css/2.4b67155c.chunk.css": "/pagina-personal/static/css/2.4b67155c.chunk.css",
+    "static/js/2.3242544d.chunk.js": "/pagina-personal/static/js/2.3242544d.chunk.js",
+    "static/js/2.3242544d.chunk.js.map": "/pagina-personal/static/js/2.3242544d.chunk.js.map",
     "index.html": "/pagina-personal/index.html",
-    "precache-manifest.be71cdf3dacea3f0b80e32c18733fa45.js": "/pagina-personal/precache-manifest.be71cdf3dacea3f0b80e32c18733fa45.js",
+    "precache-manifest.f4ed8b7fff85ec538bcb1d5f6005b54a.js": "/pagina-personal/precache-manifest.f4ed8b7fff85ec538bcb1d5f6005b54a.js",
     "service-worker.js": "/pagina-personal/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/pagina-personal/static/css/2.11829350.chunk.css.map",
-    "static/css/main.759f5ea0.chunk.css.map": "/pagina-personal/static/css/main.759f5ea0.chunk.css.map",
-    "static/js/2.c6b1f9d6.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.c6b1f9d6.chunk.js.LICENSE.txt",
+    "static/css/2.4b67155c.chunk.css.map": "/pagina-personal/static/css/2.4b67155c.chunk.css.map",
+    "static/css/main.4d24b218.chunk.css.map": "/pagina-personal/static/css/main.4d24b218.chunk.css.map",
+    "static/js/2.3242544d.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.3242544d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/pagina-personal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.92533669.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.c6b1f9d6.chunk.js",
-    "static/css/main.759f5ea0.chunk.css",
-    "static/js/main.da4c7015.chunk.js"
+    "static/css/2.4b67155c.chunk.css",
+    "static/js/2.3242544d.chunk.js",
+    "static/css/main.4d24b218.chunk.css",
+    "static/js/main.2e27d847.chunk.js"
   ]
 }
