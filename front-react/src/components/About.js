@@ -16,6 +16,8 @@ import Java from "../assets/java.svg";
 import ReactIcon from "../assets/react.svg";
 import Node from "../assets/node-js.svg";
 import C from "../assets/c.svg";
+import Graduate from "../assets/mortarboard.svg"
+import Code from "../assets/code.svg"
 
 
 function About(props) {
@@ -32,8 +34,8 @@ function About(props) {
                             contentStyle={{ background: '#727cf5', color: '#fff' }}
                             contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
                             date="2020 - present"
-                        // iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                        // icon={<WorkIcon />}
+                            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                            icon={<img src={Code} ></img>}
                         >
                             <h4 className="vertical-timeline-element-subtitle">SW Depelover </h4>
                             <h5 className="vertical-timeline-element-subtitle">at
@@ -43,8 +45,8 @@ function About(props) {
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
                             date="June 2020 - Present"
-                        // iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                        // icon={<WorkIcon />}
+                            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                            icon={<img src={Code}></img>}
                         >
                             <h4 className="vertical-timeline-element-subtitle">FullStack Depelover </h4>
                             <h5 className="vertical-timeline-element-subtitle">at
@@ -54,8 +56,8 @@ function About(props) {
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
                             date="2018"
-                        // iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                        // icon={<WorkIcon />}
+                            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff', alignSelf: "center" }}
+                            icon={<img src={Graduate}></img>}
                         >
                             <h4 className="vertical-timeline-element-subtitle">Teaching Assistant</h4>
                             <h5 className="vertical-timeline-element-subtitle">at
@@ -124,23 +126,23 @@ function About(props) {
                     <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
-                    <img src={CSS} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>   
+                    <img src={CSS} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
                     <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
-                    <img src={C} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>   
+                    <img src={C} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
                     <ReactStars count={5} value={2} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
-                    <img src={Android} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>   
+                    <img src={Android} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
                     <ReactStars count={5} value={2.5} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
-                    <img src={Node} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>   
+                    <img src={Node} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
                     <ReactStars count={5} value={3.5} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
-                    <img src={ReactIcon} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>   
+                    <img src={ReactIcon} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
                     <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
             </Row>
