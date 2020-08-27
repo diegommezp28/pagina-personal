@@ -3,9 +3,20 @@ import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeli
 import 'react-vertical-timeline-component/style.min.css';
 import './AboutStyles.css'
 import { Row, Col, Card } from "react-bootstrap";
+import ReactStars from 'react-stars'
 import Coursera from "../assets/coursera.png"
 import Uniandes from "../assets/uniandes.jpeg";
 import NE from "../assets/ne.jpeg"
+import Android from "../assets/android.svg";
+import JS from "../assets/javascript.svg";
+import CSS from "../assets/css.svg";
+import HTML from "../assets/html.svg";
+import Python from "../assets/python.svg";
+import Java from "../assets/java.svg";
+import ReactIcon from "../assets/react.svg";
+import Node from "../assets/node-js.svg";
+import C from "../assets/c.svg";
+
 
 function About(props) {
     return (
@@ -49,7 +60,7 @@ function About(props) {
                             <h4 className="vertical-timeline-element-subtitle">Teaching Assistant</h4>
                             <h5 className="vertical-timeline-element-subtitle">at
                         <a className="timeline-link" href="https://uniandes.edu.co/en" target="_blank"> Universidad de los Andes</a></h5>
-                            <p>Help students and scored examns in the OOP II (Honors)  course of the University</p>
+                            <p>Help students and grade examns and projects for the OOP II (Honors) course of the University</p>
                         </VerticalTimelineElement>
                     </VerticalTimeline>
                 </Col>
@@ -92,11 +103,45 @@ function About(props) {
                     </Row>
                 </Col>
             </Row>
-            <Row lassName="justify-content-md-center">
-                <Col xs="12">
-                    <h4 className="text-center title">Skills</h4>
+            <Row className="justify-content-md-center skills p-4">
+                <Col xs="12" className="mb-3">
+                    <h4 className="text-center title text-white">Skills</h4>
                 </Col>
-                <Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={Python} className="image-skills mb-1 ml-5 mr-5 p-2"></img>
+                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={Java} className="image-skills mb-1 ml-5 mr-5 p-2"></img>
+                    <ReactStars count={5} value={4.5} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={JS} className="image-skills mb-1 ml-5 mr-5 p-2"></img>
+                    <ReactStars count={5} value={3.8} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={HTML} className="image-skills mb-1 ml-5 mr-5 p-2"></img>
+                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={CSS} className="image-skills mb-1 ml-5 mr-5 p-2"></img>   
+                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={C} className="image-skills mb-1 ml-5 mr-5 p-2"></img>   
+                    <ReactStars count={5} value={2} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={Android} className="image-skills mb-1 ml-5 mr-5 p-2"></img>   
+                    <ReactStars count={5} value={2.5} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={Node} className="image-skills mb-1 ml-5 mr-5 p-2"></img>   
+                    <ReactStars count={5} value={3.5} className="ml-5 mr-5 " size={24}></ReactStars>
+                </Col>
+                <Col xs="6" md="3" lg="2">
+                    <img src={ReactIcon} className="image-skills mb-1 ml-5 mr-5 p-2"></img>   
+                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={24}></ReactStars>
                 </Col>
             </Row>
         </div>

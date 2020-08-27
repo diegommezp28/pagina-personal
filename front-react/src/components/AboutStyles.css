@@ -36,3 +36,12 @@
     color: #63616b;
     margin: 0px;
 }
+
+.skills{
+    background-color: rgb(39, 53, 83);
+}
+
+.image-skills{
+    width: 100px;
+    height: 100px;
+}
