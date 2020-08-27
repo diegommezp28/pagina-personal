@@ -8,7 +8,7 @@ function NavBar(params) {
   const opciones_menu = [
     {
       nombre: "Home",
-      ref: "/#",
+      ref: "#",
     },
     {
       nombre: "About",
