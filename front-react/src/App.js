@@ -5,6 +5,8 @@ import Navbar from "./Navbar";
 import Banner from "./components/Banner"
 import About from "./components/About"
 import Portafolio from "./components/Portafolio"
+import Hobbies from './components/Hobbies';
+import Footer from './components/Footer';
 
 import logo from './logo.svg';
 import './App.css';
@@ -18,6 +20,8 @@ function App() {
       <Banner></Banner>
       <About></About>
       <Portafolio></Portafolio>
+      <Hobbies></Hobbies>
+      <Footer></Footer>
     </Router>
   );
 }

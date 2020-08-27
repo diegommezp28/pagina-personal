@@ -1,0 +1,10 @@
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(29, 41, 66);
+}
+
+.footer-icons{
+    width: 30px;
+    margin: 20px
+}

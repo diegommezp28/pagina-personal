@@ -5,7 +5,7 @@ import { Row, Col, Card } from "react-bootstrap";
 function Portafolio(props) {
     return (
         <div className="m-3">
-            <h3 id="Portafolio" className="text-center m-3">Portafolio</h3>
+            <h3 id="Portafolio" className="text-center m-3 principal-title">Portafolio</h3>
             <Row className="justify-content-md-center">
                 <Col xs="12" md="6">
                     <Card className="portafolio-card m-3">
