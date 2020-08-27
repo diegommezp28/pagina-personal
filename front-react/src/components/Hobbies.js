@@ -10,7 +10,7 @@ function Hobbies(props) {
             <h3 id="Portafolio" className="text-center principal-title">Hobbies</h3>
             <p>I like drawing</p>
             <Row className="justify-content-md-center">
-                <Col md="6">
+                <Col md="10" lg="5">
                     <Carousel className="w-100 align-self-center">
                         <Carousel.Item>
                             <img

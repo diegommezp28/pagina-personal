@@ -7,6 +7,7 @@ import About from "./components/About"
 import Portafolio from "./components/Portafolio"
 import Hobbies from './components/Hobbies';
 import Footer from './components/Footer';
+import Awards from './components/Awards';
 
 import logo from './logo.svg';
 import './App.css';
@@ -20,6 +21,7 @@ function App() {
       <Banner></Banner>
       <About></About>
       <Portafolio></Portafolio>
+      <Awards></Awards>
       <Hobbies></Hobbies>
       <Footer></Footer>
     </Router>
