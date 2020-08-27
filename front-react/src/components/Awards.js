@@ -28,6 +28,9 @@ function Awards(props) {
                     <p> National Math Olympics Finalist in 2014</p>
                 </li>
                 <li>
+                    <p> National Math Olympics Semifinalist in 2016</p>
+                </li>
+                <li>
                     <p> National Physics Semifinalist Olympics in 2016</p>
                 </li>
 
