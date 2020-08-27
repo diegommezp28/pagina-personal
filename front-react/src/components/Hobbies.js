@@ -7,7 +7,7 @@ import Cat from "../assets/cat.png";
 function Hobbies(props) {
     return (
         <div className="m-4 mt-5">
-            <h3 id="Portafolio" className="text-center principal-title">Hobbies</h3>
+            <h3 id="Hobbies" className="text-center principal-title">Hobbies</h3>
             <p>I like drawing</p>
             <Row className="justify-content-md-center">
                 <Col md="10" lg="5">

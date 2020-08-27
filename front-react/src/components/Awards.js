@@ -3,8 +3,8 @@ import "./AwardsStyles.css";
 
 function Awards(props) {
     return (
-        <div id="Awards" className="m-5">
-            <h3 className="text-center m-3 principal-title">Awards</h3>
+        <div id="Awards" className="m-5 bg-light ">
+            <h3 className="text-center m-5 principal-title">Awards</h3>
             <ul>
                 <li>
                     <p>Second place at the University's first semester contest "Expoandes"</p>
