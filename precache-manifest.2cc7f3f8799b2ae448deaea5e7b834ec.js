@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c45f0475f4200f0c64f6337a891eff40",
+    "revision": "4d5e69a5fc6c34106e483e0d92b2776e",
     "url": "/pagina-personal/index.html"
   },
   {
-    "revision": "cda2b5b60036d3c46f5f",
+    "revision": "1b8cd917d64c7674f87c",
     "url": "/pagina-personal/static/css/2.1a643284.chunk.css"
   },
   {
-    "revision": "0133554ec62e16ce0a74",
-    "url": "/pagina-personal/static/css/main.f2f41e22.chunk.css"
+    "revision": "fc23635e65e9b6e8a7c4",
+    "url": "/pagina-personal/static/css/main.eeb52adc.chunk.css"
   },
   {
-    "revision": "cda2b5b60036d3c46f5f",
-    "url": "/pagina-personal/static/js/2.45fd7137.chunk.js"
+    "revision": "1b8cd917d64c7674f87c",
+    "url": "/pagina-personal/static/js/2.35516d93.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/pagina-personal/static/js/2.45fd7137.chunk.js.LICENSE.txt"
+    "url": "/pagina-personal/static/js/2.35516d93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0133554ec62e16ce0a74",
-    "url": "/pagina-personal/static/js/main.440568df.chunk.js"
+    "revision": "fc23635e65e9b6e8a7c4",
+    "url": "/pagina-personal/static/js/main.e25c24b9.chunk.js"
   },
   {
     "revision": "cf78957b2b66acce000a",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-personal/static/media/c.52bfab3c.svg"
   },
   {
+    "revision": "45c8faad7f667ebd1255bf7ea93843be",
+    "url": "/pagina-personal/static/media/cat.45c8faad.png"
+  },
+  {
     "revision": "5a560e72f36436938b78b86139fc3619",
     "url": "/pagina-personal/static/media/coursera.5a560e72.png"
   },
@@ -44,8 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pagina-personal/static/media/css.fda2e97d.svg"
   },
   {
+    "revision": "6bce964ed23736369df554755af6719f",
+    "url": "/pagina-personal/static/media/eye.6bce964e.jpeg"
+  },
+  {
+    "revision": "03d81152cfd0aba50b7078d233a86016",
+    "url": "/pagina-personal/static/media/facebook.03d81152.svg"
+  },
+  {
+    "revision": "6c90eb8361139f3628307e529abdf891",
+    "url": "/pagina-personal/static/media/github.6c90eb83.svg"
+  },
+  {
     "revision": "bc806a9f2a178e39e54f0689494ba979",
     "url": "/pagina-personal/static/media/html.bc806a9f.svg"
+  },
+  {
+    "revision": "f679e0b4083fe1c8d53f7aee5ee4d87d",
+    "url": "/pagina-personal/static/media/instagram.f679e0b4.svg"
   },
   {
     "revision": "2865148bfd4102296089be9429cc222c",
@@ -54,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e1e07bdde861a3566dab7db4128e7a95",
     "url": "/pagina-personal/static/media/javascript.e1e07bdd.svg"
+  },
+  {
+    "revision": "c34171abe73c5f3c69d79fec07e0597e",
+    "url": "/pagina-personal/static/media/joker.c34171ab.jpeg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
