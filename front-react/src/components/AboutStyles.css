@@ -1,3 +1,8 @@
+#about{
+    font-family: 'Nunito';
+    font-weight: 530;
+}
+
 .time-line-link, .time-line-link:hover, .time-line-link:active{
     color: white;
     font-weight: 650;
@@ -11,4 +16,23 @@
 .timeline-style{
     font-family: 'Nunito';
     color: #63616b;
+}
+
+.card-look{
+    border-radius: 3%;
+    enable-background: white;
+    box-shadow: 0px 0px 13px 5px #d8dae244;
+}
+
+.img-width{
+    width: 100px;
+}
+
+.education-card{
+    /* width: 25rem; */
+    padding: 1rem;
+    border-radius: 13px;
+    font-family: 'Nunito', 'Roboto', 'Apple';
+    color: #63616b;
+    margin: 0px;
 }

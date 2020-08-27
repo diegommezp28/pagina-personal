@@ -6,3 +6,11 @@ html{
   overflow-x: hidden;
 }
 
+.title{
+  font-family: 'Nunito', 'Roboto', 'Apple';
+  font-style: oblique;
+  font-weight: 610;
+  font-size: 28px;
+  color: rgb(86, 106, 150);
+
+}
