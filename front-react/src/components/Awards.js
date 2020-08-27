@@ -7,7 +7,7 @@ function Awards(props) {
             <h3 className="text-center m-5 principal-title">Awards</h3>
             <ul>
                 <li>
-                    <p>Second place at the University's first semester contest "Expoandes"</p>
+                    <p>Second place at the University's first semester contest "Expoandes". (2017)</p>
                 </li>
                 <li>
                     <p>Alberto Magno distinction at Universidad de los Andes for having one of the 10 best scores
@@ -31,7 +31,7 @@ function Awards(props) {
                     <p> National Math Olympics Semifinalist in 2016</p>
                 </li>
                 <li>
-                    <p> National Physics Semifinalist Olympics in 2016</p>
+                    <p> National Physics Olympics Semifinalist in 2016</p>
                 </li>
 
 
