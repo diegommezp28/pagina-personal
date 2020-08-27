@@ -2,23 +2,25 @@
   z-index: 0.9;
 }
 .banner-col {
-  height: 40vh;
+  height: 45vh;
 }
 
 .typewritter-wrapper {
-  width: 45em;
-  margin-top: 10vh;
+  width: 30em;
+  margin-top: 15vh;
+  padding: 0.8rem;
 }
 
-.typewriter h2 {
+.typewriter p {
   font-family: "Nunito";
   font-weight: 600;
+  font-size: 2rem;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: 0.15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: 0.15em; /* Adjust as needed */
-  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  animation: typing 2.5s steps(40, end), blink-caret 0.75s step-end infinite;
 }
 
 /* The typing effect */
@@ -39,5 +41,20 @@
   }
   50% {
     border-color: orange;
+  }
+}
+
+@media (max-width: 830px) {
+  .banner-col {
+    height: 40vh;
+  }
+  .typewritter-wrapper {
+    width: 23em;
+    margin-left: 5%;
+    padding: 0.8rem;
+  }
+
+  .typewriter p {
+    font-size: 1.5rem;
   }
 }
