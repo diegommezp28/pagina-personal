@@ -19,7 +19,7 @@ function Awards(props) {
                         from over a million total contestants  </p>
                 </li>
                 <li>
-                    <p>Hometown Highschool Futsal champion in 2016 with my school team. Final match MVP scoring 4 goals.</p>
+                    <p>Hometown Highschool Futsal champion in 2016 with my school team. MVP of the final match scoring 4 goals.</p>
                 </li>
                 <li>
                     <p>Won a total of 8 regional highschool Math Olympics between 2013 and 2016.</p>
