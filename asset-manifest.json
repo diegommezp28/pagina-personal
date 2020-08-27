@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/pagina-personal/static/css/main.05a5265a.chunk.css",
-    "main.js": "/pagina-personal/static/js/main.f2ffd578.chunk.js",
-    "main.js.map": "/pagina-personal/static/js/main.f2ffd578.chunk.js.map",
+    "main.css": "/pagina-personal/static/css/main.98b61853.chunk.css",
+    "main.js": "/pagina-personal/static/js/main.fdfd08a5.chunk.js",
+    "main.js.map": "/pagina-personal/static/js/main.fdfd08a5.chunk.js.map",
     "runtime-main.js": "/pagina-personal/static/js/runtime-main.92533669.js",
     "runtime-main.js.map": "/pagina-personal/static/js/runtime-main.92533669.js.map",
     "static/css/2.1a643284.chunk.css": "/pagina-personal/static/css/2.1a643284.chunk.css",
-    "static/js/2.35516d93.chunk.js": "/pagina-personal/static/js/2.35516d93.chunk.js",
-    "static/js/2.35516d93.chunk.js.map": "/pagina-personal/static/js/2.35516d93.chunk.js.map",
+    "static/js/2.a99004b2.chunk.js": "/pagina-personal/static/js/2.a99004b2.chunk.js",
+    "static/js/2.a99004b2.chunk.js.map": "/pagina-personal/static/js/2.a99004b2.chunk.js.map",
     "index.html": "/pagina-personal/index.html",
-    "precache-manifest.32e1abd07f4a46bc592cbee579902936.js": "/pagina-personal/precache-manifest.32e1abd07f4a46bc592cbee579902936.js",
+    "precache-manifest.09da7f5d8325bd5b4b7aea5a3a2ab1ab.js": "/pagina-personal/precache-manifest.09da7f5d8325bd5b4b7aea5a3a2ab1ab.js",
     "service-worker.js": "/pagina-personal/service-worker.js",
     "static/css/2.1a643284.chunk.css.map": "/pagina-personal/static/css/2.1a643284.chunk.css.map",
-    "static/css/main.05a5265a.chunk.css.map": "/pagina-personal/static/css/main.05a5265a.chunk.css.map",
-    "static/js/2.35516d93.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.35516d93.chunk.js.LICENSE.txt",
+    "static/css/main.98b61853.chunk.css.map": "/pagina-personal/static/css/main.98b61853.chunk.css.map",
+    "static/js/2.a99004b2.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.a99004b2.chunk.js.LICENSE.txt",
     "static/media/android.svg": "/pagina-personal/static/media/android.4e83f9b3.svg",
     "static/media/c.svg": "/pagina-personal/static/media/c.52bfab3c.svg",
     "static/media/cat.png": "/pagina-personal/static/media/cat.45c8faad.png",
+    "static/media/code.svg": "/pagina-personal/static/media/code.7cb98211.svg",
     "static/media/coursera.png": "/pagina-personal/static/media/coursera.5a560e72.png",
     "static/media/css.svg": "/pagina-personal/static/media/css.fda2e97d.svg",
     "static/media/eye.jpeg": "/pagina-personal/static/media/eye.6bce964e.jpeg",
@@ -28,6 +29,7 @@
     "static/media/javascript.svg": "/pagina-personal/static/media/javascript.e1e07bdd.svg",
     "static/media/joker.jpeg": "/pagina-personal/static/media/joker.c34171ab.jpeg",
     "static/media/logo.svg": "/pagina-personal/static/media/logo.5d5d9eef.svg",
+    "static/media/mortarboard.svg": "/pagina-personal/static/media/mortarboard.77c9c3b0.svg",
     "static/media/ne.jpeg": "/pagina-personal/static/media/ne.472062f1.jpeg",
     "static/media/node-js.svg": "/pagina-personal/static/media/node-js.f9fe3b2a.svg",
     "static/media/python.svg": "/pagina-personal/static/media/python.3e633281.svg",
@@ -36,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.92533669.js",
     "static/css/2.1a643284.chunk.css",
-    "static/js/2.35516d93.chunk.js",
-    "static/css/main.05a5265a.chunk.css",
-    "static/js/main.f2ffd578.chunk.js"
+    "static/js/2.a99004b2.chunk.js",
+    "static/css/main.98b61853.chunk.css",
+    "static/js/main.fdfd08a5.chunk.js"
   ]
 }
