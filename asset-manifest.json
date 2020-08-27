@@ -1,28 +1,37 @@
 {
   "files": {
-    "main.css": "/pagina-personal/static/css/main.081fcd38.chunk.css",
-    "main.js": "/pagina-personal/static/js/main.7195f9e5.chunk.js",
-    "main.js.map": "/pagina-personal/static/js/main.7195f9e5.chunk.js.map",
+    "main.css": "/pagina-personal/static/css/main.07d4043a.chunk.css",
+    "main.js": "/pagina-personal/static/js/main.f14b1afe.chunk.js",
+    "main.js.map": "/pagina-personal/static/js/main.f14b1afe.chunk.js.map",
     "runtime-main.js": "/pagina-personal/static/js/runtime-main.92533669.js",
     "runtime-main.js.map": "/pagina-personal/static/js/runtime-main.92533669.js.map",
     "static/css/2.1a643284.chunk.css": "/pagina-personal/static/css/2.1a643284.chunk.css",
-    "static/js/2.4c8efd8f.chunk.js": "/pagina-personal/static/js/2.4c8efd8f.chunk.js",
-    "static/js/2.4c8efd8f.chunk.js.map": "/pagina-personal/static/js/2.4c8efd8f.chunk.js.map",
+    "static/js/2.b643c364.chunk.js": "/pagina-personal/static/js/2.b643c364.chunk.js",
+    "static/js/2.b643c364.chunk.js.map": "/pagina-personal/static/js/2.b643c364.chunk.js.map",
     "index.html": "/pagina-personal/index.html",
-    "precache-manifest.07b3190df7611772eb1467ef8dbbcfaf.js": "/pagina-personal/precache-manifest.07b3190df7611772eb1467ef8dbbcfaf.js",
+    "precache-manifest.7f98ecbad58dac35b8182f4967e9a147.js": "/pagina-personal/precache-manifest.7f98ecbad58dac35b8182f4967e9a147.js",
     "service-worker.js": "/pagina-personal/service-worker.js",
     "static/css/2.1a643284.chunk.css.map": "/pagina-personal/static/css/2.1a643284.chunk.css.map",
-    "static/css/main.081fcd38.chunk.css.map": "/pagina-personal/static/css/main.081fcd38.chunk.css.map",
-    "static/js/2.4c8efd8f.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.4c8efd8f.chunk.js.LICENSE.txt",
+    "static/css/main.07d4043a.chunk.css.map": "/pagina-personal/static/css/main.07d4043a.chunk.css.map",
+    "static/js/2.b643c364.chunk.js.LICENSE.txt": "/pagina-personal/static/js/2.b643c364.chunk.js.LICENSE.txt",
+    "static/media/android.svg": "/pagina-personal/static/media/android.4e83f9b3.svg",
+    "static/media/c.svg": "/pagina-personal/static/media/c.52bfab3c.svg",
     "static/media/coursera.png": "/pagina-personal/static/media/coursera.5a560e72.png",
+    "static/media/css.svg": "/pagina-personal/static/media/css.fda2e97d.svg",
+    "static/media/html.svg": "/pagina-personal/static/media/html.bc806a9f.svg",
+    "static/media/java.svg": "/pagina-personal/static/media/java.2865148b.svg",
+    "static/media/javascript.svg": "/pagina-personal/static/media/javascript.e1e07bdd.svg",
     "static/media/logo.svg": "/pagina-personal/static/media/logo.5d5d9eef.svg",
-    "static/media/ne.jpeg": "/pagina-personal/static/media/ne.472062f1.jpeg"
+    "static/media/ne.jpeg": "/pagina-personal/static/media/ne.472062f1.jpeg",
+    "static/media/node-js.svg": "/pagina-personal/static/media/node-js.f9fe3b2a.svg",
+    "static/media/python.svg": "/pagina-personal/static/media/python.3e633281.svg",
+    "static/media/react.svg": "/pagina-personal/static/media/react.5f99ccaa.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.92533669.js",
     "static/css/2.1a643284.chunk.css",
-    "static/js/2.4c8efd8f.chunk.js",
-    "static/css/main.081fcd38.chunk.css",
-    "static/js/main.7195f9e5.chunk.js"
+    "static/js/2.b643c364.chunk.js",
+    "static/css/main.07d4043a.chunk.css",
+    "static/js/main.f14b1afe.chunk.js"
   ]
 }
