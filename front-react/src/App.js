@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./Navbar";
 import Banner from "./components/Banner"
 import About from "./components/About"
+import Portafolio from "./components/Portafolio"
 
 import logo from './logo.svg';
 import './App.css';
@@ -16,6 +17,7 @@ function App() {
       <Navbar></Navbar>
       <Banner></Banner>
       <About></About>
+      <Portafolio></Portafolio>
     </Router>
   );
 }

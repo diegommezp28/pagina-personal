@@ -16,15 +16,15 @@ function NavBar(params) {
     },
     {
       nombre: "Portafolio",
-      ref: "#prueba",
+      ref: "#Portafolio",
     },
     {
       nombre: "Awards",
-      ref: "#prueba",
+      ref: "#Awards",
     },
     {
       nombre: "Hobbies",
-      ref: "#prueba",
+      ref: "#Hobbies",
     },
   ];
 
