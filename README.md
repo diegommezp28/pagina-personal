@@ -7,4 +7,4 @@ Esta es la página personal de Diego Andrés Gómez Polo. Está desplegada en Gi
 Pueden visitarla en el siguiente [link](https://diegommezp28.github.io/pagina-personal/)
 
 ### How to run it
-This Wep App is made with React, inside the "front-react" folder run "npm install & npm start" to install the project dependencies and to run the web server in the default ip: localhost:3000
+This Wep App is made with React, inside the "front-react" folder run ```npm install & npm start ```  to install the project dependencies and to run the web server in the default ip: localhost:3000
