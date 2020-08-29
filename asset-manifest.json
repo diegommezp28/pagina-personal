@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pagina-personal/static/css/main.98b61853.chunk.css",
-    "main.js": "/pagina-personal/static/js/main.24ecefc3.chunk.js",
-    "main.js.map": "/pagina-personal/static/js/main.24ecefc3.chunk.js.map",
+    "main.js": "/pagina-personal/static/js/main.8be8c814.chunk.js",
+    "main.js.map": "/pagina-personal/static/js/main.8be8c814.chunk.js.map",
     "runtime-main.js": "/pagina-personal/static/js/runtime-main.92533669.js",
     "runtime-main.js.map": "/pagina-personal/static/js/runtime-main.92533669.js.map",
     "static/css/2.1a643284.chunk.css": "/pagina-personal/static/css/2.1a643284.chunk.css",
     "static/js/2.a99004b2.chunk.js": "/pagina-personal/static/js/2.a99004b2.chunk.js",
     "static/js/2.a99004b2.chunk.js.map": "/pagina-personal/static/js/2.a99004b2.chunk.js.map",
     "index.html": "/pagina-personal/index.html",
-    "precache-manifest.f8463bebfbda5a7db40332f9e42eb7f5.js": "/pagina-personal/precache-manifest.f8463bebfbda5a7db40332f9e42eb7f5.js",
+    "precache-manifest.e8174b69ba06fb123bb26ac0ac8642b1.js": "/pagina-personal/precache-manifest.e8174b69ba06fb123bb26ac0ac8642b1.js",
     "service-worker.js": "/pagina-personal/service-worker.js",
     "static/css/2.1a643284.chunk.css.map": "/pagina-personal/static/css/2.1a643284.chunk.css.map",
     "static/css/main.98b61853.chunk.css.map": "/pagina-personal/static/css/main.98b61853.chunk.css.map",
@@ -40,6 +40,6 @@
     "static/css/2.1a643284.chunk.css",
     "static/js/2.a99004b2.chunk.js",
     "static/css/main.98b61853.chunk.css",
-    "static/js/main.24ecefc3.chunk.js"
+    "static/js/main.8be8c814.chunk.js"
   ]
 }
