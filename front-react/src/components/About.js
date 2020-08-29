@@ -24,7 +24,6 @@ function About(props) {
     return (
         <div className="m-0 p-2 bg-light">
             <h3 id="about" className="text-center">About</h3>
-            {/* <hr /> */}
             <Row className="bg-light p-2 mt-0 pt-0">
                 <Col xs="12" md="5">
                     <h4 className="text-center title">Experience</h4>
@@ -111,39 +110,39 @@ function About(props) {
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={Python} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={Java} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={4.5} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={4.5} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={JS} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={3.8} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={3.8} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={HTML} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={CSS} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={C} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={2} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={2} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={Android} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={2.5} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={2.5} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={Node} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={3.5} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={3.5} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
                 <Col xs="6" md="3" lg="2">
                     <img src={ReactIcon} className="image-skills mb-1 ml-5 pl-0 mr-5 p-2"></img>
-                    <ReactStars count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
+                    <ReactStars edit={false} count={5} value={4} className="ml-5 mr-5 " size={18}></ReactStars>
                 </Col>
             </Row>
         </div>
